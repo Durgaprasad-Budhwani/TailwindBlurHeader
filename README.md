@@ -38,7 +38,11 @@ And there you have it, folks! A header that whispers tales of mystery and enchan
 
 ## Demo
 
-[!(TailwindBlurHeader)](media/TailwindBlurHeader.mp4)
+
+
+[!(TailwindHeaderBlur Example)](https://github.com/Durgaprasad-Budhwani/TailwindBlurHeader/assets/993962/7f6d75ed-bdf7-4fe1-8b0d-2f541cd4e1e2)
+
+
 
 ---
 ### Full Code Snippet:
