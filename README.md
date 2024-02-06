@@ -1,3 +1,5 @@
+# TailwindBlurHeader Example
+
 Let's dive into the dreamy world of web design and chat about adding that *chef's kiss* TailwindHeader Blur Effect to your website. This little gem of a code snippet can transform your mundane header into a masterpiece of visual poetry. So, buckle up, buttercup, as we break it down, piece by piece, with some sass and a lot of class.
 
 First things first, let's set the stage with our main div:
